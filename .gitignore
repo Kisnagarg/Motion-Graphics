@@ -1,0 +1,18 @@
+# Video outputs and archives
+*.mp4
+*.zip
+*.mov
+*.wav
+*.png
+
+# Node / JS
+node_modules/
+package.json
+package-lock.json
+
+# Local workspace cache
+.agents/
+skills/
+.DS_Store
+*.tmp
+/tmp/
