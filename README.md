@@ -70,5 +70,5 @@ apple-motion-graphics/
 
 ## Author & Brand
 - **Brand:** GargProtocol
-- **Subject:** REA — Reverse Engineer Anything
-- **License:** MIT
+
+
